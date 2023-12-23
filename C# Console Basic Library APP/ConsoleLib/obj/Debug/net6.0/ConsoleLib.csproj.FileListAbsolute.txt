@@ -1,0 +1,17 @@
+E:\Github\Atak-Code-Your-Future-Project\C# Console Basic Library APP\ConsoleLib\obj\Debug\net6.0\ConsoleLib.csproj.AssemblyReference.cache
+E:\Github\Atak-Code-Your-Future-Project\C# Console Basic Library APP\ConsoleLib\obj\Debug\net6.0\ConsoleLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\Atak-Code-Your-Future-Project\C# Console Basic Library APP\ConsoleLib\obj\Debug\net6.0\ConsoleLib.AssemblyInfoInputs.cache
+E:\Github\Atak-Code-Your-Future-Project\C# Console Basic Library APP\ConsoleLib\obj\Debug\net6.0\ConsoleLib.AssemblyInfo.cs
+E:\Github\Atak-Code-Your-Future-Project\C# Console Basic Library APP\ConsoleLib\obj\Debug\net6.0\ConsoleLib.csproj.CoreCompileInputs.cache
+E:\Github\Atak-Code-Your-Future-Project\C# Console Basic Library APP\ConsoleLib\bin\Debug\net6.0\ConsoleLib.exe
+E:\Github\Atak-Code-Your-Future-Project\C# Console Basic Library APP\ConsoleLib\bin\Debug\net6.0\ConsoleLib.deps.json
+E:\Github\Atak-Code-Your-Future-Project\C# Console Basic Library APP\ConsoleLib\bin\Debug\net6.0\ConsoleLib.runtimeconfig.json
+E:\Github\Atak-Code-Your-Future-Project\C# Console Basic Library APP\ConsoleLib\bin\Debug\net6.0\ConsoleLib.dll
+E:\Github\Atak-Code-Your-Future-Project\C# Console Basic Library APP\ConsoleLib\bin\Debug\net6.0\ConsoleLib.pdb
+E:\Github\Atak-Code-Your-Future-Project\C# Console Basic Library APP\ConsoleLib\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Github\Atak-Code-Your-Future-Project\C# Console Basic Library APP\ConsoleLib\obj\Debug\net6.0\ConsoleLib.csproj.CopyComplete
+E:\Github\Atak-Code-Your-Future-Project\C# Console Basic Library APP\ConsoleLib\obj\Debug\net6.0\ConsoleLib.dll
+E:\Github\Atak-Code-Your-Future-Project\C# Console Basic Library APP\ConsoleLib\obj\Debug\net6.0\refint\ConsoleLib.dll
+E:\Github\Atak-Code-Your-Future-Project\C# Console Basic Library APP\ConsoleLib\obj\Debug\net6.0\ConsoleLib.pdb
+E:\Github\Atak-Code-Your-Future-Project\C# Console Basic Library APP\ConsoleLib\obj\Debug\net6.0\ConsoleLib.genruntimeconfig.cache
+E:\Github\Atak-Code-Your-Future-Project\C# Console Basic Library APP\ConsoleLib\obj\Debug\net6.0\ref\ConsoleLib.dll
